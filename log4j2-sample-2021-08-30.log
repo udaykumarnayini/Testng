@@ -1,0 +1,159 @@
+[INFO ] 2021-08-30 14:43:00.974 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:43:07.248 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:43:07.254 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:43:09.976 [TestNG-PoolService-0] Log - Asserting 200 status code
+[INFO ] 2021-08-30 14:43:09.990 [TestNG-PoolService-0] Log - Asserting cdr data updated in db
+[INFO ] 2021-08-30 14:43:12.695 [TestNG-PoolService-0] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 14:43:12.703 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:43:14.900 [TestNG-PoolService-0] Log - Asserting 401 status code
+[INFO ] 2021-08-30 14:43:14.927 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:43:16.788 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:43:16.790 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:43:19.031 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 14:43:19.061 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:43:20.636 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:43:20.639 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:43:22.818 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 14:43:22.829 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:43:24.424 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:43:24.427 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:43:26.589 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 14:46:29.447 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:46:36.405 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:46:36.421 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:46:40.309 [TestNG-PoolService-0] Log - Asserting 200 status code
+[INFO ] 2021-08-30 14:46:40.319 [TestNG-PoolService-0] Log - Asserting cdr data updated in db
+[INFO ] 2021-08-30 14:46:42.988 [TestNG-PoolService-0] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 14:46:42.990 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:46:45.428 [TestNG-PoolService-0] Log - Asserting 401 status code
+[INFO ] 2021-08-30 14:46:45.472 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:46:48.014 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:46:48.018 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:46:50.913 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 14:46:50.941 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:46:53.782 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:46:53.784 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:46:56.344 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 14:46:56.362 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 14:46:58.967 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 14:46:58.970 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 14:47:01.214 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:08:29.274 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 17:08:35.520 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:08:35.559 [TestNG-PoolService-0] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 17:08:35.563 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 17:08:37.424 [TestNG-PoolService-0] Log - Asserting 401 status code
+[INFO ] 2021-08-30 17:08:37.461 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 17:08:39.443 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:08:39.454 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 17:08:41.168 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:08:41.184 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 17:08:42.925 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:08:42.929 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 17:08:44.581 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:08:44.631 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 17:08:46.412 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:08:46.416 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 17:08:48.130 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:15:10.680 [TestNG-PoolService-3] Log - Create user auth token
+[INFO ] 2021-08-30 17:15:10.681 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 17:15:10.680 [TestNG-PoolService-4] Log - Create user auth token
+[INFO ] 2021-08-30 17:15:10.680 [TestNG-PoolService-2] Log - Create user auth token
+[INFO ] 2021-08-30 17:15:10.680 [TestNG-PoolService-1] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 17:15:11.503 [TestNG-PoolService-1] Log - cdr api call
+[INFO ] 2021-08-30 17:15:18.904 [TestNG-PoolService-2] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:15:18.955 [TestNG-PoolService-4] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:15:18.976 [TestNG-PoolService-4] Log - cdr api call
+[INFO ] 2021-08-30 17:15:19.006 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:15:19.044 [TestNG-PoolService-3] Log - Setting Cdr data
+[INFO ] 2021-08-30 17:15:19.046 [TestNG-PoolService-3] Log - cdr api call
+[INFO ] 2021-08-30 17:15:19.088 [TestNG-PoolService-2] Log - cdr api call
+[INFO ] 2021-08-30 17:15:20.021 [TestNG-PoolService-1] Log - Asserting 401 status code
+[INFO ] 2021-08-30 17:15:21.453 [TestNG-PoolService-2] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:15:21.474 [TestNG-PoolService-4] Log - Asserting 400 status code
+[INFO ] 2021-08-30 17:15:21.657 [TestNG-PoolService-3] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-2] Log - Create user auth token
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-1] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-5] Log - Create user auth token
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-4] Log - Create user auth token
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:00:59.542 [TestNG-PoolService-3] Log - Create user auth token
+[INFO ] 2021-08-30 19:01:00.023 [TestNG-PoolService-1] Log - cdr api call
+[INFO ] 2021-08-30 19:01:07.381 [TestNG-PoolService-4] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:01:07.384 [TestNG-PoolService-4] Log - cdr api call
+[INFO ] 2021-08-30 19:01:07.462 [TestNG-PoolService-5] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:01:07.479 [TestNG-PoolService-3] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:01:07.482 [TestNG-PoolService-3] Log - cdr api call
+[INFO ] 2021-08-30 19:01:07.586 [TestNG-PoolService-2] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:01:07.596 [TestNG-PoolService-2] Log - cdr api call
+[INFO ] 2021-08-30 19:01:07.687 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:01:08.063 [TestNG-PoolService-1] Log - Asserting 401 status code
+[INFO ] 2021-08-30 19:01:10.582 [TestNG-PoolService-2] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:01:10.593 [TestNG-PoolService-3] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:01:10.667 [TestNG-PoolService-4] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-3] Log - Create user auth token
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-5] Log - Create user auth token
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-2] Log - Create user auth token
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-1] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 19:15:53.583 [TestNG-PoolService-4] Log - Create user auth token
+[INFO ] 2021-08-30 19:15:53.962 [TestNG-PoolService-1] Log - cdr api call
+[INFO ] 2021-08-30 19:15:59.951 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:15:59.981 [TestNG-PoolService-5] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:15:59.983 [TestNG-PoolService-5] Log - cdr api call
+[INFO ] 2021-08-30 19:15:59.991 [TestNG-PoolService-2] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:15:59.999 [TestNG-PoolService-4] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:16:00.002 [TestNG-PoolService-2] Log - cdr api call
+[INFO ] 2021-08-30 19:16:00.007 [TestNG-PoolService-4] Log - cdr api call
+[INFO ] 2021-08-30 19:16:00.025 [TestNG-PoolService-3] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:16:00.027 [TestNG-PoolService-3] Log - cdr api call
+[INFO ] 2021-08-30 19:16:00.411 [TestNG-PoolService-1] Log - Asserting 401 status code
+[INFO ] 2021-08-30 19:16:02.487 [TestNG-PoolService-4] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:16:02.625 [TestNG-PoolService-5] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:16:02.673 [TestNG-PoolService-3] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:16:02.734 [TestNG-PoolService-2] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:19:32.019 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:19:38.014 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:19:38.058 [TestNG-PoolService-0] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 19:19:38.061 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:19:40.247 [TestNG-PoolService-0] Log - Asserting 401 status code
+[INFO ] 2021-08-30 19:19:40.289 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:19:42.522 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:19:42.527 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:19:45.137 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:19:45.174 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:19:48.365 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:19:48.370 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:19:50.856 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:19:50.880 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:19:54.317 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:19:54.324 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:19:56.616 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:19:56.674 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:19:59.447 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:19:59.456 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:20:01.592 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:40:00.375 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:40:07.627 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:40:07.637 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:09.761 [TestNG-PoolService-0] Log - Asserting 200 status code
+[INFO ] 2021-08-30 19:40:09.775 [TestNG-PoolService-0] Log - Asserting cdr data updated in db
+[INFO ] 2021-08-30 19:40:12.513 [TestNG-PoolService-0] Log - Setting cdr data without auth token
+[INFO ] 2021-08-30 19:40:12.519 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:15.090 [TestNG-PoolService-0] Log - Asserting 401 status code
+[INFO ] 2021-08-30 19:40:15.138 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:40:17.387 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:40:17.400 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:19.705 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:40:19.732 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:40:21.715 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:40:21.717 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:24.187 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:40:24.199 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:40:26.606 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:40:26.617 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:28.582 [TestNG-PoolService-0] Log - Asserting 400 status code
+[INFO ] 2021-08-30 19:40:28.595 [TestNG-PoolService-0] Log - Create user auth token
+[INFO ] 2021-08-30 19:40:31.490 [TestNG-PoolService-0] Log - Setting Cdr data
+[INFO ] 2021-08-30 19:40:31.495 [TestNG-PoolService-0] Log - cdr api call
+[INFO ] 2021-08-30 19:40:33.892 [TestNG-PoolService-0] Log - Asserting 400 status code
